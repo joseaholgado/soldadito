@@ -1,0 +1,42 @@
+<?xml version="1.8" encoding="UTF-8"?>
+<dinners>
+  <meal>
+    <name>Plato de Jamon de Bellota</name>
+    <price>15.00 $</price>
+    <categoria>Entrante</categoria>
+    <temporada></temporada>
+
+  </meal>
+  <meal>
+    <name>Ensalada César</name>
+    <price>9.00 $</price>
+    <ingredients>
+          <ingredients>Lechuga</ingredients>
+          <ingredients>Tomate</ingredients>
+          <ingredients>Picatostes</ingredients>
+          <ingredients>Pollo Rebozado</ingredients>
+          <ingredients>Salsa César</ingredients>
+          
+    </ingredients>
+    <categoria>Primero</categoria>
+        
+  </meal>
+  <meal>
+    <name>Entrecot Corte Argentino</name>
+    <price>25.00 $</price>
+    <ingredients>
+          <ingredients>Ternera Argentina</ingredients>
+          <ingredients>Chimichurri</ingredients>
+          <ingredients>Sal Maldón</ingredients>
+    </ingredients>
+    <opciones> poco hecho | mugiente | suela zapato</opciones>
+    <categoria>Principal</categoria>
+ 
+  </meal>
+
+
+
+
+
+
+</dinners>

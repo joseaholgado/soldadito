@@ -1,0 +1,38 @@
+<?xml version="1.8" encoding="UTF-8"?>
+
+<cancion>
+    <titulo></titulo>
+    <autor></autor>
+    <letra>
+        <estrofa>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           
+        </estrofa>
+        <estrofa>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           
+        </estrofa>
+        <estrofa>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+        </estrofa>
+        <estrofa>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+           <verso></verso>
+        </estrofa>
+    
+    </letra>
+
+</cancion>
